@@ -1,0 +1,17 @@
+<autocomplete>
+ctrl+n - autocomplete
+ctrl+n+x - autocomplete within file
+ctrl+x+f - autocomplete path (doesn't work in vscode)
+ctrl+x+] - autocomplete based on tags
+ctrl+e / ctrl+u - exit and delete everything typed in that session
+
+<tag-related>
+g+] - tag jump with the name
+
+<splits>
+:sp - split hotizontally
+:vs - split vertically
+ctrl+w+w - move between splits
+
+<other commands>
+:find NAME - find file with NAME in specified paths
