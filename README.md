@@ -3,7 +3,7 @@ Dot files just the way I like them
 
 ## Files
 - `.vimrc`: Vim editor settings, save in `$HOME`  
-- `.custom_commands.sh`: add `source path/to/dir/.custom_commands.sh` in `~/.bashrc`  
+- `.custom-commands.sh`: add `source path/to/dir/.custom_commands.sh` in `~/.bashrc`  
 - `.vim-commands.txt`: some commands for Vim editor I'd like to keep note of  
 
 ## etc.
