@@ -15,3 +15,25 @@ ctrl+w+w - move between splits
 
 <other commands>
 :find NAME - find file with NAME in specified paths
+
+<navigations>
+ctrl+u / ctrl+d - page up, down
+ctrl+y / ctrl+e - page up, down by 1 line (cursor as is)
+0 / $ - move to first/last tile in line
+^ - move to first tile 'not' space in line
+* - move to next "this word" in file
+
+<edit>
+I - insert to first in line
+A - insert to last in line
+o/O - new line under/above + insert
+d - delete X lines (starting from this one)
+c - delete X lines (starting from this one) + insert mode
+D - delete from here to end of line
+C - delete from here to end of line + insert mode
+
+<tabs / buffers>
+:buffers - see all open buffers
+:tabnew ./ - open new tab from ./
+:bnext / :bprev - move between files open in buffers
+:tabnext / :tabprev - move between tabs
